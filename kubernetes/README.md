@@ -4,11 +4,9 @@ This is a community repository of presentations about Kubernetes. All presentati
 
 PULL REQUESTS ARE WELCOME! 
 
-## Links to presentations
+## Table of Contents
 
-Sometimes people prefer to host their own slides somewhere else, feel free to add your links here:
-
-- 
+- [The name of your talk](link) - by Jane Kubelet (OSCON)
 
 ## Repo Organization
 
