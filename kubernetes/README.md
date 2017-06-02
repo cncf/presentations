@@ -7,6 +7,7 @@ PULL REQUESTS ARE WELCOME!
 ## Table of Contents
 
 - [The name of your talk](link) - by Jane Kubelet (OSCON)
+- [Kubernetes 101](http://slides.eightypercent.net/kubernetes-101/#1) - by Joe Beda (Gluecon 2017)
 
 ## Repo Organization
 
