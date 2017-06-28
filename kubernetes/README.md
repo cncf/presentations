@@ -19,6 +19,8 @@ PULL REQUESTS ARE WELCOME!
 - [A Few Things To Know About Resource Scheduling](https://speakerdeck.com/thockin/a-few-things-to-know-about-resource-scheduling) by Tim Hockin (eBay Meetup)
 - [An Illustrated Guide to Kubernetes Networking](https://speakerdeck.com/thockin/illustrated-guide-to-kubernetes-networking) by Tim Hockin
 - [Kubernetes: A very brief intro to Namespaces](https://speakerdeck.com/thockin/kubernetes-a-very-brief-intro-to-namespaces) by Tim Hockin
+- [Kubernetes Walk Through from Technical View](https://speakerdeck.com/resouer/kubernetes-walk-through-from-technical-view) by Harry Zhang (Alibaba k8s workshop)
+- [Kubernetes Node Deep Dive](https://speakerdeck.com/resouer/kubernetes-node-under-the-hood) by Harry Zhang (CNCF/k8s Meetup Hangzhou)
 
 ### People Using Kubernetes 
 
