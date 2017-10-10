@@ -6,6 +6,10 @@ PULL REQUESTS ARE WELCOME!
 
 ## Table of Contents
 
+### Kubernetes introductions
+
+ - [Intro to the cloud-native world of Kubernetes](https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup) by Lucas Käldström ([Kubernetes & CNCF Finland meetup](https://www.meetup.com/Kubernetes-Finland/), Oct 4, 2017)
+
 ### Kubernetes Updates
 
 - [State of the Project](https://speakerdeck.com/thockin/kubernetes-state-of-the-project) by Tim Hockin (June 2, 2017)
