@@ -25,6 +25,7 @@ PULL REQUESTS ARE WELCOME!
 - [Kubernetes: A very brief intro to Namespaces](https://speakerdeck.com/thockin/kubernetes-a-very-brief-intro-to-namespaces) by Tim Hockin
 - [Kubernetes Walk Through from Technical View](https://speakerdeck.com/resouer/kubernetes-walk-through-from-technical-view) by Harry Zhang (Alibaba k8s workshop)
 - [Kubernetes Node Deep Dive](https://speakerdeck.com/resouer/kubernetes-node-under-the-hood) by Harry Zhang (CNCF/k8s Meetup Hangzhou)
+- [Kubernetes' Architecture Fundamentals](https://speakerdeck.com/luxas/kubernetes-architecture-fundamentals) by Lucas Käldström (October 18, 2017)
 
 ### People Using Kubernetes 
 
