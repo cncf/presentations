@@ -11,10 +11,11 @@ PULL REQUESTS ARE WELCOME!
 - [CoreDNS, Cloud Native DNS](https://docs.google.com/presentation/d/1v6Coq1JRlqZ8rQ6bv0Tg0usSictmnN9U80g8WKxiOjQ/edit#slide=id.p) - by [John Belamaric](http://twitter.com/johnbelamaric)
 
 ### CloudNativeCon/KubeCon
+- Austin, December 2017 - [CoreDNS Salon](https://docs.google.com/presentation/d/1sifZFuG4GhUwAfIaHQaAfCoaqocMO_2QFCWMONGV4dA/edit?usp=sharing) - by [John Belamaric](http://twitter.com/johnbelamaric)
 - Berlin, March 2017 - [Keynote - CoreDNS Project Update](https://github.com/cncf/presentations/coredns/gieben/CloudNativeCon_CoreDNS_2017.pdf) - by [Miek Gieben](http://twitter.com/miekg)
 - Berlin, March 2017 - [CoreDNS Salon](https://github.com/cncf/presentations/coredns/gieben/CloudNativeCon_CoreDNS_2017-Salon.pdf) - by [Miek Gieben](http://twitter.com/miekg)
 - Seattle, November 2016 - [CoreDNS and Kubernetes Lightning Talk](https://github.com/cncf/presentations/coredns/belamaric/CloudNativeCon_CoreDNS_2016.pptx) - by [John Belamaric](http://twitter.com/johnbelamaric)
- 
+
 ## Repo Organization
 
 If you have your slides already online or hosted someplace else, just leave a link in the table of contents. If you want to submit actual slides to this repo submit your slides via a Pull Request, for now we're organizing by _author name_, so just toss them in a subdirectory under your last name.
