@@ -8,6 +8,7 @@ PULL REQUESTS ARE WELCOME!
 
 ### Kubernetes introductions
 
+ - [Kubernetes Community Overview and Contributions Guide](https://docs.google.com/presentation/d/1JqcALpsg07eH665ZXQrIvOcin6SzzsIUjMRRVivrZMg) by Ihor Dvoretskyi
  - [Intro to the cloud-native world of Kubernetes](https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup) by Lucas Käldström ([Kubernetes & CNCF Finland meetup](https://www.meetup.com/Kubernetes-Finland/), Oct 4, 2017)
  - [How to Contribute to Kubernetes](https://docs.google.com/presentation/d/1NJfoXynMw1LXT2jrGm8zaE7uP8Mtz5A0isdzmxISCkk/edit?usp=sharing) by Nikhita Raghunath (KubeCon+CloudNativeCon North America 2017)
 
