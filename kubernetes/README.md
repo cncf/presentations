@@ -34,6 +34,10 @@ PULL REQUESTS ARE WELCOME!
 
 - [DevOps at a glance: Slideless](https://drive.google.com/open?id=1TuvKeLggYz3hxH1RHmFCXcX8uprKOrl0vP347JZ988A) - by Jeffrey Sica (Orchestructure May 2017)
 
+### Kubernetes Applications
+
+- [Developing on Kubernetes](https://speakerdeck.com/mhausenblas/developing-on-kubernetes) - by Michael Hausenblas (DevOps Amsterdam, 2018-03-14)
+
 ## Repo Organization
 
 If you have your slides already online or hosted someplace else, just leave a link in the table of contents. If you want to submit actual slides to this repo submit your slides via a Pull Request, for now we're organizing by _author name_, so just toss them in a subdirectory under your last name.
