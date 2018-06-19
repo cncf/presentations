@@ -1,5 +1,7 @@
 # KubeCon + CloudNativeCon 2018 - Copenhagen
 
+Don't miss [KubeCon + CloudNativeCon Shanghai](https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/) November 14-15, 2018.
+
 |Topic|YouTube|Tencent|
 |---|:---:|:---:|
 |Keynote: Anatomy of a Production Kubernetes Outage - Oliver Beattie, Head of Engineering, Monzo Bank|[Video](https://www.youtube.com/watch?v=OUYTNywPk-s)|[视频](https://v.qq.com/x/page/f0660sas15s.html)|
