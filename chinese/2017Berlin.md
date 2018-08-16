@@ -1,6 +1,6 @@
 # KubeCon + CloudNativeCon 2017 - Berlin
 
-Don't miss [KubeCon + CloudNativeCon Shanghai](https://events.linuxfoundation.cn/events/kubecon-cloudnativecon-china-2018/) November 13-15, 2018.
+Don't miss [KubeCon + CloudNativeCon Shanghai](https://events.linuxfoundation.cn/events/kubecon-cloudnativecon-china-2018/?bag_track=cncf-2017EU-video&utm_source=cncf-2017EU-video&utm_medium=video&utm_campaign=kccnc%20china) November 13-15, 2018.
 
 |Topic|YouTube|Tencent|
 |---|:---:|:---:|
