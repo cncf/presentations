@@ -46,5 +46,17 @@ If you have your slides already online or hosted someplace else, just leave a li
 
 **FORMAT**: We prefer if your slides were in a reusable format, such as Google Slides or whatever CSS/HTML/JS framework you prefer so it's easier to consume.
 
-Please make sure your content is under the Apache v2.0 or CC-BY license to we can easily share and reuse the content.
+Please make sure your content is under the CC-BY (or Apache v2.0 if applicable) license to we can easily share and reuse the content.
+
+### How To Use The CC-BY License
+
+For most presentations, the best license to use is [CC-BY](https://creativecommons.org/licenses/by/4.0/). This license allows other Kubernetes community members to share, reuse, and remix your content for other talks and presentations. You retain ownership of your slides, and anyone using them must give you attribution as the original author.
+
+To apply the license to your presentation, add a slide (usually near the end) like:
+
+```
+This presentation is licensed under a Creative Commons Attribution 4.0 International License.
+
+See https://creativecommons.org/licenses/by/4.0/ for more details.
+```
 
