@@ -1,6 +1,6 @@
 # KubeCon + CloudNativeCon 2018 - Shanghai
 
-Don't miss [KubeCon + CloudNativeCon Shanghai](https://events.linuxfoundation.cn/events/kubecon-cloudnativecon-china-2019) June 26-28, 2019.
+Don't miss [KubeCon + CloudNativeCon + Open Source Summit Shanghai](https://events.linuxfoundation.cn/events/kubecon-cloudnativecon-china-2019) June 24-26, 2019.
 
 |Topic|YouTube|Tencent|
 |---|:---:|:---:|
