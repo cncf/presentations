@@ -13,6 +13,7 @@ PULL REQUESTS ARE WELCOME!
  - [How to Contribute to Kubernetes](https://docs.google.com/presentation/d/1NJfoXynMw1LXT2jrGm8zaE7uP8Mtz5A0isdzmxISCkk/edit?usp=sharing) by Nikhita Raghunath (KubeCon+CloudNativeCon North America 2017)
  - [Introduction to Kubernetes Workshop (full-day)](https://docs.google.com/presentation/d/1zrfVlE5r61ZNQrmXKx5gJmBcXnoa_WerHEnTxu5SMco/edit?usp=sharing) by Bob Killen and Jeff Sica (July 17, 2018)
  - [Kubernetes New Contributor Workshop](https://docs.google.com/presentation/d/1cgEw0t8oeokaN44piqmEemul2gQBqZX5wvj6NncqPFI/edit?usp=sharing) by Guinevere Saenger, Josh Berkus, Noah Abrahams, Tim Pepper, Zach Corleissen, and Michelle Shephardson (KubeCon+CloudNativeCon North America 2018)
+ - [Intro to Kubernetes - from containers to orchestrating the world](https://docs.google.com/presentation/d/11cFazU6c8tLWdEvmxYAb2DJ6Pht89Xxpqpsiug_aP7E) By Alex Sirbu (March 14, 2019)
 
 ### Kubernetes Updates
 
