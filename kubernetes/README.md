@@ -9,7 +9,7 @@ PULL REQUESTS ARE WELCOME!
 ### Kubernetes introductions
 
  - [Kubernetes Community Overview and Contributions Guide](https://docs.google.com/presentation/d/1JqcALpsg07eH665ZXQrIvOcin6SzzsIUjMRRVivrZMg) by Ihor Dvoretskyi
- - [Intro to the cloud-native world of Kubernetes](https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-november-2018) by Lucas Käldström ([Kubernetes & CNCF Finland meetup](https://www.meetup.com/Kubernetes-Finland/), Nov 20, 2018)
+ - [Intro to the cloud-native world of Kubernetes](https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019) by Lucas Käldström ([Kubernetes & CNCF Finland meetup](https://www.meetup.com/Kubernetes-Finland/), Jan 17, 2019)
  - [How to Contribute to Kubernetes](https://docs.google.com/presentation/d/1NJfoXynMw1LXT2jrGm8zaE7uP8Mtz5A0isdzmxISCkk/edit?usp=sharing) by Nikhita Raghunath (KubeCon+CloudNativeCon North America 2017)
  - [Introduction to Kubernetes Workshop (full-day)](https://docs.google.com/presentation/d/1zrfVlE5r61ZNQrmXKx5gJmBcXnoa_WerHEnTxu5SMco/edit?usp=sharing) by Bob Killen and Jeff Sica (July 17, 2018)
  - [Kubernetes New Contributor Workshop](https://docs.google.com/presentation/d/1cgEw0t8oeokaN44piqmEemul2gQBqZX5wvj6NncqPFI/edit?usp=sharing) by Guinevere Saenger, Josh Berkus, Noah Abrahams, Tim Pepper, Zach Corleissen, and Michelle Shephardson (KubeCon+CloudNativeCon North America 2018)
@@ -31,7 +31,8 @@ PULL REQUESTS ARE WELCOME!
 - [Kubernetes: A very brief intro to Namespaces](https://speakerdeck.com/thockin/kubernetes-a-very-brief-intro-to-namespaces) by Tim Hockin
 - [Kubernetes Walk Through from Technical View](https://speakerdeck.com/resouer/kubernetes-walk-through-from-technical-view) by Harry Zhang (Alibaba k8s workshop)
 - [Kubernetes Node Deep Dive](https://speakerdeck.com/resouer/kubernetes-node-under-the-hood) by Harry Zhang (CNCF/k8s Meetup Hangzhou)
-- [Kubernetes' Architecture Fundamentals](https://speakerdeck.com/luxas/kubernetes-architecture-fundamentals) by Lucas Käldström (October 18, 2017)
+- [Kubernetes' Architecture Deep Dive](https://speakerdeck.com/luxas/kubernetes-architecture-deep-dive-umea-may-2019) by Lucas Käldström (May 7, 2019)
+- [What does “production ready” really mean for a Kubernetes cluster?](https://speakerdeck.com/luxas/what-does-production-ready-really-mean-for-a-kubernetes-cluster-umea-may-2019) by Lucas Käldström (May 7, 2019)
 - [Kubernetes - A Comprehensive Overview](https://docs.google.com/presentation/d/1_xwLGM6U6EDK59s9Zny-zWGGAbQk47cZPuBblU3Upus/edit?usp=sharing) by Bob Killen (December 11, 2017)
 
 ### People Using Kubernetes 
