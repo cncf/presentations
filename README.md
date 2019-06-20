@@ -13,6 +13,6 @@ The 2018 [presentation](https://docs.google.com/presentation/d/1r3lI5YdLVjSCc6Cu
 The CNCF End User Community overview by Cheryl Hung is available in English or Chinese:
 
 * [CNCF End User Community](https://docs.google.com/presentation/d/194SyKdHL7ws_DBOdbrXdowEJi54kIzDdDK_h-6Ag0uo/edit#slide=id.p4)
-* [CNCF 最终用户社区](https://github.com/cncf/presentations/raw/master/chinese/CNCF_Overview_CN.pptx)
+* [CNCF 最终用户社区](https://github.com/cncf/presentations/raw/master/chinese/CNCF_EUC_Overview_CN.pptx)
 
 Other presentations from the CNCF community are available in this repo, although they may be out of date. Just send us a pull request if you want your presentation added. Please make sure it's under the Apache v2.0 or CC-BY license so we can easily share and reuse the content.
