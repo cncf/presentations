@@ -18,6 +18,7 @@ PULL REQUESTS ARE WELCOME!
 ### Kubernetes New Contributor Workshops
 - [Kubernetes New Contributor Workshop Seattle](https://docs.google.com/presentation/d/1cgEw0t8oeokaN44piqmEemul2gQBqZX5wvj6NncqPFI/edit?usp=sharing) by Guinevere Saenger, Josh Berkus, Noah Abrahams, Tim Pepper, Zach Corleissen, and Michelle Shephardson (KubeCon+CloudNativeCon North America 2018)
 - [Kubernetes New Contributor Workshop Barcelona](https://docs.google.com/presentation/d/1usEbwHMSC8vR7HvbxHJBOj2ISdTkw9rmufQUq7fkIl4/edit?usp=sharing) by Guinevere Saenger and Tim Pepper (KubeCon+CloudNativeCon Europe 2019)
+- [Localize Kubernetes Docs hosted by CNCF](https://docs.google.com/presentation/d/1rjAJtgKIQOhYOw6gev4eCiPUEI2PqhQFn-uqtI7USqE/edit?usp=sharing) by Kohei Ota and Takuya Tokuda (Open Source Summit Japan 2019)
 
 ### Kubernetes Updates
 
