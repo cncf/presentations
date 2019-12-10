@@ -25,4 +25,4 @@ If you have your slides already online or hosted someplace else, just leave a li
 Please make sure your content is under the Apache v2.0 or CC-BY license so we can easily share and reuse the content.
 
 - [cncf/presentations](https://github.com/cncf/presentations) - Home to all CNCF project presentations
- - [cncf/presentations/coredns](https://github.com/cncf/presentations/coredns) - you are here
+ - [cncf/presentations/coredns](https://github.com/cncf/presentations/tree/master/coredns) - you are here
