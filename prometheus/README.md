@@ -2,14 +2,16 @@
 
 This is a community repository of presentations about Prometheus. All presentations here are available for you to remix and reuse for your own use.
 
-PULL REQUESTS ARE WELCOME! 
+PULL REQUESTS ARE WELCOME!
 
 ## Table of Contents
 
 ### Prometheus Introductory Talks
 
-- [Monitoring, the Prometheus Way](https://docs.google.com/presentation/d/1O4tGzX7tkoASxzx0QpwyXQN1OxXmJCX_-5nqCil-AmQ/edit?usp=sharing) - by Julius Volz (2017)
+- [Monitoring, the Prometheus Way](https://docs.google.com/presentation/d/1MAWzUWQL6ZArG0TMqCyUOmFLY6iouR_4rBx-6bQxkwM/edit?usp=sharing) - by Julius Volz (2019)
+  - Feel free to reuse either in whole or in part, but **please give credit to Julius Volz** in your talk.
 - [Prometheus Design and Philosophy](https://docs.google.com/presentation/d/1buFsGDT-fPtAKJ1yxT9XX1SGxXeHfaNbNc6SDV4Oxz8/edit?usp=sharing) - by Julius Volz (SF Prometheus Meetup, 2016)
+  - Feel free to reuse either in whole or in part, but **please give credit to Julius Volz** in your talk.
 
 ## Repo Organization
 
