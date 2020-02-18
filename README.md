@@ -2,9 +2,9 @@
 
 The CNCF overview [presentation](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit) by Dan Kohn is available via Google Docs. It includes the slides for a talk, A Brief History of the Cloud, in the appendix.
 
-The Chinese PowerPoint is updated every month and is available for [download](https://github.com/cncf/presentations/raw/master/chinese/CNCF_Overview_CN.pptx) or via [Youdao Note](https://note.youdao.com/noteshare?id=6dca3ae77cd931707bf35973f776d14f). And it's available in [Japanese](https://github.com/cncf/presentations/blob/master/japanese/CNCF_Overview_Ja-Jp.pptx) as well.
+The Chinese PowerPoint is updated every month and is available for [download](https://github.com/cncf/presentations/raw/master/chinese/CNCF_Overview_CN.pptx). And it's available in [Japanese](https://github.com/cncf/presentations/blob/master/japanese/CNCF_Overview_Ja-Jp.pptx) as well.
 
-CNCF概况介绍每月更新，可以在这下载[PPTX文档](https://github.com/cncf/presentations/raw/master/chinese/CNCF_Overview_CN.pptx)或者使用[有道云笔记](https://note.youdao.com/noteshare?id=6dca3ae77cd931707bf35973f776d14f)。この日本語バージョンは、CNCF overview を @zembutsu が翻訳しました。お気づきの点がありましたらご指摘ください。
+CNCF概况介绍每月更新，可以在这下载[PPTX文档](https://github.com/cncf/presentations/raw/master/chinese/CNCF_Overview_CN.pptx)。この日本語バージョンは、CNCF overview を @zembutsu が翻訳しました。お気づきの点がありましたらご指摘ください。
 
 The 2017 [presentation](https://docs.google.com/presentation/d/105ZgwafitwXH6_sWevFHHUerciuv4ckDQ_CXjGPjv0Y/edit#slide=id.p4) by Dan Kohn, Migrating Legacy Monoliths to Cloud Native Microservices Architectures on Kubernetes, is also available.
 
