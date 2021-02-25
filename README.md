@@ -1,7 +1,7 @@
 # CNCF Community Presentations
 
 ## CNCF Overview presentation
-The CNCF overview [presentation](https://docs.google.com/presentation/d/1wVFM5CaKq71-fOr6JlzZKvD_5WV9HQXRIaHWpwMplRY/) by Dan Kohn is available via Google Docs. It includes the slides for a talk, A Brief History of the Cloud, in the appendix.  
+The CNCF overview [presentation](https://docs.google.com/presentation/d/1UGewu4MMYZobunfKr5sOGXsspcLOH_5XeCLyOHKh9LU/edit?usp=sharing) is available via Google Docs. It includes the slides for a talk, A Brief History of the Cloud, in the appendix.  
 A Chinese version, updated every month, is available for [download](https://github.com/cncf/presentations/raw/master/chinese/CNCF_Overview_CN.pptx) (PowerPoint).  
 A Japanese version is also [available](https://github.com/cncf/presentations/tree/master/japanese/CNCF_Overview_Ja-Jp.pptx) (PowerPoint).
 
