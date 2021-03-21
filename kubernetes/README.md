@@ -48,6 +48,10 @@ PULL REQUESTS ARE WELCOME!
 
 - [Developing on Kubernetes](https://speakerdeck.com/mhausenblas/developing-on-kubernetes) - by Michael Hausenblas (DevOps Amsterdam, 2018-03-14)
 
+### Kubernetes Training
+
+- [CKAD Study and Exam Tips](https://docs.google.com/presentation/d/1L2K1xFfl9f7k8F-_6hroHXbem1Bzgr6p9pwGJEEaP3Y/edit?usp=sharing) - By Brad McCoy (CNCF Community Manly, 2021-03-09)
+
 ## Repo Organization
 
 If you have your slides already online or hosted someplace else, just leave a link in the table of contents. If you want to submit actual slides to this repo submit your slides via a Pull Request, for now we're organizing by _author name_, so just toss them in a subdirectory under your last name.
