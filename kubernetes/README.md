@@ -50,6 +50,7 @@ PULL REQUESTS ARE WELCOME!
 
 ### Kubernetes Training
 
+- [CKA Study and Exam Tips](https://docs.google.com/presentation/d/1QmOwflPsWHww1xFyqGIea0-9TdNNkpxL6z20ifXsOHk/edit?usp=sharing) - By Brad McCoy (CNCF Community Manly, 2021-03-30)
 - [CKAD Study and Exam Tips](https://docs.google.com/presentation/d/1L2K1xFfl9f7k8F-_6hroHXbem1Bzgr6p9pwGJEEaP3Y/edit?usp=sharing) - By Brad McCoy (CNCF Community Manly, 2021-03-09)
 
 ## Repo Organization
