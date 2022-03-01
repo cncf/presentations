@@ -4,9 +4,11 @@
 The CNCF overview [presentation](https://docs.google.com/presentation/d/1UGewu4MMYZobunfKr5sOGXsspcLOH_5XeCLyOHKh9LU/) by Dan Kohn is available via Google Docs. It includes the slides for a talk, A Brief History of the Cloud, in the appendix.  
 A Chinese version, updated every month, is available for [download](https://github.com/cncf/presentations/raw/master/chinese/CNCF_Overview_CN.pptx) (PowerPoint).  
 A Japanese version is also [available](https://github.com/cncf/presentations/tree/master/japanese/CNCF_Overview_Ja-Jp.pptx) (PowerPoint).
+A Korean version is also [available](https://github.com/cncf/presentations/tree/master/korean/CNCF_Overview_ko-kr.pptx) (PowerPoint).
 
 CNCF概况介绍每月更新，可以在这下载[PPTX文档](https://github.com/cncf/presentations/raw/master/chinese/CNCF_Overview_CN.pptx)  
 この日本語バージョンは、CNCF overview を @zembutsu が翻訳しました。お気づきの点がありましたらご指摘ください。
+[한국어 버전](https://github.com/cncf/presentations/tree/master/korean/CNCF_Overview_ko-kr.pptx)에 대한 자세한 설명을 여기를 참고하세요: [링크](korean/README.md)
 
 
 ### Older Overview presentations
