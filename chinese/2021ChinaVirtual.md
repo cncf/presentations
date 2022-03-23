@@ -28,7 +28,7 @@
 |中国移动 5G 边缘计算开源实践与思考<br>China Mobile 5G Edge Computing Open Source Practice and thinking - Yanjun Chen, China Mobile|[Video](https://www.youtube.com/watch?v=FQFYhkYlDfI)|[视频](https://v.qq.com/x/page/h3314mo9afi.html)|
 |闭幕词——第1天<br>Closing Remarks - Day 1 - Jasmine James, Twitter & Ricardo Rocha, CERN|[Video](https://www.youtube.com/watch?v=ugqunUPBJwA)|[视频](https://v.qq.com/x/page/s3314bwz1j7.html)|
 |闭幕词——第2天<br>Closing Remarks, Day 2 - Jasmine James, Twitter & Ricardo Rocha, CERN|[Video](https://www.youtube.com/watch?v=K6bp2NuiSS0)|[视频](https://v.qq.com/x/page/d3314yjbm1r.html)|
-|证券数字化的云原生演进<br>Cloud Native Evolution of Securities Digitization - Wang Ling,|[Video](https://www.youtube.com/watch?v=NikIdahAHCk)|[视频](https://v.qq.com/x/page/j3314dkfi2u.html)|
+|证券数字化的云原生演进<br>Cloud Native Evolution of Securities Digitization - Wang Ling, Huatai|[Video](https://www.youtube.com/watch?v=NikIdahAHCk)|[视频](https://v.qq.com/x/page/j3314dkfi2u.html)|
 |云原生存储：存储 TAG 介绍、项目、经管和技术<br>Cloud Native Storage: Storage TAG intro, Projects, Landscape & Technology - Alex Chircop, StorageOS & Raffaele Spazzoli, RedHat|[Video](https://www.youtube.com/watch?v=_OkGsyc4h3w)|[视频](https://v.qq.com/x/page/h33148lhmqc.html)|
 |CloudEvents- 版本 1 正处于开始阶段<br>CloudEvents - Version 1 is just the beginning - Ryan Horn, Twillio|[Video](https://www.youtube.com/watch?v=THDfw-WvbBc)|[视频](https://v.qq.com/x/page/d33144bd3jd.html)|
 |CNCF项目更新<br>CNCF Project Updates - Ricardo Rocha, Computing Engineer, CERN|[Video](https://www.youtube.com/watch?v=ciUrY9W8a6c)|[视频](https://v.qq.com/x/page/n33144l6rjs.html)|
