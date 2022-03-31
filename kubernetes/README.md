@@ -26,7 +26,7 @@ PULL REQUESTS ARE WELCOME!
 
 ### Kubernetes Concepts and Components
 
-- [Introduction to Kubernetes](https://drive.google.com/file/d/1Lfi8r0GZdFIMgprUrwaf-Lru5RsctML7/view?usp=sharing) by Rishabh Indoria (March 2019)
+- [Introduction to Kubernetes](https://drive.google.com/file/d/1p65kmMRyDL4_r2MWSJLTMAZyMnHEZUXt/view) by Rishabh Indoria (March 2019)
 - [Kubernetes 101](http://slides.eightypercent.net/kubernetes-101/#1) - by Joe Beda (Gluecon 2017)
 - [Edge vs. Level triggered logic](https://speakerdeck.com/thockin/edge-vs-level-triggered-logic) by Tim Hockin
 - [A Crash Course on Container Orchestration](https://speakerdeck.com/thockin/a-crash-course-on-container-orchestration) by Tim Hockin (Interop ITX)
