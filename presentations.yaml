@@ -31,7 +31,7 @@
 - name: Introduction to CNCF
   description: | # Optional
     This is an intro to CNCF.
-  video: https://www.cncf.io/webinars/leverage-user-traffic-to-automate-load-testing-this-holiday-season/ # Optional
+  video: https://www.youtube.com/watch?v=qCdlRhQPB8A
   slides: https://www.slideshare.net/CNCForg/leverage-user-traffic-to-automate-load-testing-this-holiday-season # Required
   date: 2022-11-19 # Required
   presenters: # Required
