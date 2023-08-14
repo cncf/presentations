@@ -3,7 +3,7 @@
     Testing tools can’t keep pace with the complexity and speed of development. By the time you’ve manually scripted a test, it’s basically out of date. And how accurate is the data used in your mocks and tests anyway? With the holiday season bearing down on retailers, dev teams must be prepared for the onslaught of online sales and unpredictable user behavior that could throw a wrench in the system. Join Jeff Kwan, Principle Engineer at Cimpress, and Speedscale co-founder Nate Lee, for a conversation with CNCF’s Taylor Dolezal to learn the biggest obstacles in automating and accelerating load testing today and how existing user traffic holds the key to scaling ecommerce software safely—with speed.
   video: https://www.youtube.com/watch?v=ggzqm4r3Pyo
   slides: https://www.slideshare.net/CNCForg/leverage-user-traffic-to-automate-load-testing-this-holiday-season # Required
-  date: 2020-11-19 # Required
+  date: 2023-08-13 # Required
   presenters: # Required
     - name: Abdellfetah SGHIOUAR
       github: boredabdel
@@ -33,7 +33,7 @@
     This is an intro to CNCF.
   video: https://www.youtube.com/watch?v=qCdlRhQPB8A
   slides: https://www.slideshare.net/CNCForg/leverage-user-traffic-to-automate-load-testing-this-holiday-season # Required
-  date: 2022-11-19 # Required
+  date: 2023-08-10 # Required
   presenters: # Required
     - name: Chris Aniszczyk
       github: caniszczyk
