@@ -27,7 +27,7 @@
     - SPIRE
   tags: # Required
     - Project Maintainer
-    - KubeCon + CloudNativeCon
+    - End User
 - name: Introduction to CNCF
   description: | # Optional
     This is an intro to CNCF.
@@ -49,4 +49,4 @@
     - SPIRE
   tags: # Required
     - CNCF Staff
-    - KubeCon + CloudNativeCon
+    - CNCF 101
