@@ -1,3 +1,69 @@
+- name: What does Kubernetes Steering Steer?
+  description: |
+    The Kubernetes Steering Committee is tasked with decision-making and oversight of the non-technical aspects of the Kubernetes project. This session will be broken into two parts: The first half will be an overview of what the committee is, and what it isn’t. What it’s tasked with, its importance, what it has accomplished to date and its top priorities for the year. The latter half will be focused on answering questions from Kubernetes project constituents and the wider Cloud Native community at large. If you’re curious or have a question about how one of the largest Open Source projects is governed, how that impacts you, or how you can leverage our learnings in your cloud-native projects’ governance journeys, we encourage you to come stop by for a conversation! NOTE: Had to swap speakers at the last minute (covid).
+  video: https://youtu.be/d3xQw_JE6So
+  slides: https://speakerdeck.com/mrbobbytables/what-does-kubernetes-steering-steer
+  date: 2023-04-19
+  presenters:
+    - name: Robert Killen
+      github: mrbobbytables
+    - name: Nabarun Pal
+      github: palnabarun
+  event:
+    name: KubeCon EU 2023
+    url: https://kccnceu2023.sched.com/event/1HyUq?iframe=no
+  language: EN
+  projects:
+    - Kubernetes
+  tags:
+    - Project Maintainer
+    - Ambassador
+    - KubeCon
+- name: Introduction to Software Supply Chain Security and Tooling
+  description: |
+    You’re familiar with containers and Kubernetes, but suddenly people are talking about supply chains, and you’re pretty sure they don’t mean the Suez Canal. Join Jeffrey Sica and Bob Killen for an in-depth look at the nuts, bolts, and metaphorical shipping containers that make up modern container supply chain security. They’ll demo sigstore and show how container signing automation works with Kubernetes. You’ll leave prepared to make decisions that will keep your org unstuck.
+  slides: https://speakerdeck.com/mrbobbytables/introduction-to-software-supply-chain-security-and-tooling
+  date: 2023-03-29
+  presenters:
+    - name: Robert Killen
+      github: mrbobbytables
+    - name: Jeffrey Sica
+      github: jeefy
+  event:
+    name: SCaLE 20x
+    url: https://www.socallinuxexpo.org/scale/20x/presentations/supply-chain-security-tooling
+  language: EN
+  license: CC-BY-4.0
+  projects:
+    - Kyverno
+    - sigstore
+  tags:
+    - Project Maintainer
+    - Ambassador
+- name: "Keynote: Cloud Native 101: Motor City Edition"
+  description: |
+    The Cloud Native ecosystem is a complex topic. While most things start with Kubernetes as a foundation, a stack can vary wildly, even when sticking only to CNCF-accepted projects. In addition to the technical aspects, there’s also community, docs, and governance to be aware of when looking to contribute (and often even consume) these technologies. Never fear, for Bob Killen (Google) and Jeffrey Sica (CNCF) are here to provide attendees a map of the land(scape). Both have been active consumers of, and contributors to, CNCF projects for years. In this talk, Bob and Jeff will guide attendees through what a Cloud Native stack looks like, the common problems that different projects look to solve, and how Community plays a big part in this technology.
+
+    Coincidentally, both have also been residents of Southeastern Michigan for most of their lives! Therefore the talk will be chalked full of analogies to Detroit Style Pizza, Coney Dogs, and Automobiles to celebrate their home state and the wonderful city of Detroit.
+  slides: https://speakerdeck.com/mrbobbytables/cloud-native-101-motor-city-edition
+  video: https://youtu.be/XP-AITn8Jvk
+  date: 2023-10-28
+  presenters:
+    - name: Robert Killen
+      github: mrbobbytables
+    - name: Jeffrey Sica
+      github: jeefy
+  event:
+    name: KubeCon NA 2022
+    url: https://sched.co/182M2
+  language: EN
+  projects:
+    - Kubernetes
+  tags:
+    - KubeCon
+    - Keynote
+    - Project Maintainer
+    - Ambassador
 - name: Leverage user traffic to automate load testing this holiday season # Required
   description: | # Optional
     Testing tools can’t keep pace with the complexity and speed of development. By the time you’ve manually scripted a test, it’s basically out of date. And how accurate is the data used in your mocks and tests anyway? With the holiday season bearing down on retailers, dev teams must be prepared for the onslaught of online sales and unpredictable user behavior that could throw a wrench in the system. Join Jeff Kwan, Principle Engineer at Cimpress, and Speedscale co-founder Nate Lee, for a conversation with CNCF’s Taylor Dolezal to learn the biggest obstacles in automating and accelerating load testing today and how existing user traffic holds the key to scaling ecommerce software safely—with speed.
