@@ -18,7 +18,6 @@
   tags:
     - Project Maintainer
     - Ambassador
-    - KubeCon
 - name: Introduction to Software Supply Chain Security and Tooling
   description: |
     You’re familiar with containers and Kubernetes, but suddenly people are talking about supply chains, and you’re pretty sure they don’t mean the Suez Canal. Join Jeffrey Sica and Bob Killen for an in-depth look at the nuts, bolts, and metaphorical shipping containers that make up modern container supply chain security. They’ll demo sigstore and show how container signing automation works with Kubernetes. You’ll leave prepared to make decisions that will keep your org unstuck.
@@ -60,7 +59,6 @@
   projects:
     - Kubernetes
   tags:
-    - KubeCon
     - Keynote
     - Project Maintainer
     - Ambassador
