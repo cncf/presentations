@@ -1,3 +1,18 @@
+- name: The CNCF & You Growing Community in the Cloud Native Landscape
+  description: |
+    This talk takes you on a journey through the cloud native landscape and how the CNCF is helping to shape the way we develop and innovate in a vendor neutral environment working to solve complex problems through collaboration and community.
+  video: https://www.youtube.com/watch?v=xZf8BBAYC3k
+  slides: https://docs.google.com/presentation/d/1d197JIb_yx2B0057gS-C3o2OLXWVZ3eIVoOeLLbt57Y/edit#slide=id.gd0e8356533_0_0
+  date: 2023-04-22
+  presenters:
+    - name: Lori Larusso
+      github: LoriLorusso
+   event: 
+    name: KCD Israel 2023
+    url: https://community.cncf.io/events/details/cncf-kcd-israel-presents-kcd-israel-2023/
+  language: EN
+  projects:
+    - Kubernetes
 - name: What does Kubernetes Steering Steer?
   description: |
     The Kubernetes Steering Committee is tasked with decision-making and oversight of the non-technical aspects of the Kubernetes project. This session will be broken into two parts: The first half will be an overview of what the committee is, and what it isn’t. What it’s tasked with, its importance, what it has accomplished to date and its top priorities for the year. The latter half will be focused on answering questions from Kubernetes project constituents and the wider Cloud Native community at large. If you’re curious or have a question about how one of the largest Open Source projects is governed, how that impacts you, or how you can leverage our learnings in your cloud-native projects’ governance journeys, we encourage you to come stop by for a conversation! NOTE: Had to swap speakers at the last minute (covid).
