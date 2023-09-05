@@ -1,3 +1,18 @@
+- name: The CNCF & You Growing Community in the Cloud Native Landscape
+  description: |
+    This talk takes you on a journey through the cloud native landscape and how the CNCF is helping to shape the way we develop and innovate in a vendor neutral environment working to solve complex problems through collaboration and community.
+  video: https://www.youtube.com/watch?v=xZf8BBAYC3k
+  slides: https://docs.google.com/presentation/d/1d197JIb_yx2B0057gS-C3o2OLXWVZ3eIVoOeLLbt57Y/edit#slide=id.gd0e8356533_0_0
+  date: 2023-04-22
+  presenters:
+    - name: Lori Larusso
+      github: LoriLorusso
+   event: 
+    name: KCD Israel 2023
+    url: https://community.cncf.io/events/details/cncf-kcd-israel-presents-kcd-israel-2023/
+  language: EN
+  projects:
+    - Kubernetes
 - name: What does Kubernetes Steering Steer?
   description: |
     The Kubernetes Steering Committee is tasked with decision-making and oversight of the non-technical aspects of the Kubernetes project. This session will be broken into two parts: The first half will be an overview of what the committee is, and what it isn’t. What it’s tasked with, its importance, what it has accomplished to date and its top priorities for the year. The latter half will be focused on answering questions from Kubernetes project constituents and the wider Cloud Native community at large. If you’re curious or have a question about how one of the largest Open Source projects is governed, how that impacts you, or how you can leverage our learnings in your cloud-native projects’ governance journeys, we encourage you to come stop by for a conversation! NOTE: Had to swap speakers at the last minute (covid).
@@ -62,55 +77,3 @@
     - Keynote
     - Project Maintainer
     - Ambassador
-- name: Leverage user traffic to automate load testing this holiday season # Required
-  description: | # Optional
-    Testing tools can’t keep pace with the complexity and speed of development. By the time you’ve manually scripted a test, it’s basically out of date. And how accurate is the data used in your mocks and tests anyway? With the holiday season bearing down on retailers, dev teams must be prepared for the onslaught of online sales and unpredictable user behavior that could throw a wrench in the system. Join Jeff Kwan, Principle Engineer at Cimpress, and Speedscale co-founder Nate Lee, for a conversation with CNCF’s Taylor Dolezal to learn the biggest obstacles in automating and accelerating load testing today and how existing user traffic holds the key to scaling ecommerce software safely—with speed.
-  video: https://www.youtube.com/watch?v=ggzqm4r3Pyo
-  slides: https://www.slideshare.net/CNCForg/leverage-user-traffic-to-automate-load-testing-this-holiday-season # Required
-  date: 2023-08-13 # Required
-  presenters: # Required
-    - name: Abdellfetah SGHIOUAR
-      github: boredabdel
-    - name: Ana Margarita Medina
-      github: AnaMMedina21
-  event: # Optional
-    name: KubeCon NA 2021
-    url: https://events.linuxfoundation.org/archive/2021/kubecon-cloudnativecon-north-america/
-  language: EN # Required
-  license: CC-BY-4.0 # Optional
-  projects: # Required
-    - containerd
-    - Crossplane
-    - Istio
-    - k3s
-    - Knative
-    - Kubernetes
-    - OpenTelemetry
-    - Rook
-    - SPIFFE
-    - SPIRE
-  tags: # Required
-    - Project Maintainer
-    - End User
-- name: Introduction to CNCF
-  description: | # Optional
-    This is an intro to CNCF.
-  video: https://www.youtube.com/watch?v=qCdlRhQPB8A
-  slides: https://www.slideshare.net/christyponnattil/introduction-to-data-science-254604795 # Required
-  date: 2023-08-10 # Required
-  presenters: # Required
-    - name: Chris Aniszczyk
-      github: caniszczyk
-  event: # Optional
-    name: KubeCon NA 2022
-    url: https://events.linuxfoundation.org/archive/2022/kubecon-cloudnativecon-north-america/
-  language: EN # Required
-  license: CC-BY-4.0 # Optional
-  projects: # Required
-    - OpenTelemetry
-    - Rook
-    - SPIFFE
-    - SPIRE
-  tags: # Required
-    - CNCF Staff
-    - CNCF 101
