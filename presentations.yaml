@@ -1,3 +1,19 @@
+- name: Propagating Programming Paradigms: Lifting High Performance Compute Into K8s
+  description: |
+    Users don’t care where items run, just IF they run and how long they need to wait for completion. We should be building systems where ONLY the hardware, network, storage, and security engineers worry about how to maximally leverage underlying hardware for performance. Increasingly popular AI/ML and traditional HPC workloads have many similarities. It is historically difficult for the users to deploy their workloads in HPC environments. Kubernetes, meanwhile, has focused on simplifying the cognitive load for the users at a cost to both performance and sustainability. We show how to lift paradigms from HPC to make more performant Kubernetes clusters. We give a history of where HPC has come up short in abstracting hardware away from the user. We highlight current Kubernetes projects that do aid in performance in a cloud-native fashion and will go over continuing gaps. We will show how to improve Kubernetes to optimize both performance and sustainability without added pain to the user.
+  video: https://www.youtube.com/watch?v=0iH1HK20obs
+  date: 2023-10-24
+  presenters:
+    - name: Marlow Weston 
+      github: catblade
+    - name: Dave Cremins
+      github: davecremins
+   event: 
+    name: Kubernetes Batch + HPC Day NA 2022
+    url: https://events.linuxfoundation.org/kubernetes-batch-hpc-day-north-america/
+  language: EN
+  projects:
+    - Kubernetes
 - name: The CNCF & You Growing Community in the Cloud Native Landscape
   description: |
     This talk takes you on a journey through the cloud native landscape and how the CNCF is helping to shape the way we develop and innovate in a vendor neutral environment working to solve complex problems through collaboration and community.
