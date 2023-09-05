@@ -1,5 +1,14 @@
 # CNCF Community Presentations
 
+### Incoming Changes (Pardon our dust)
+
+This repository is becoming a backend for what will eventually become presentations.cncf.io.
+
+- Frontend issues should be filed here: https://github.com/cncf/presentations-website/issues
+- Existing data and presentations will not be removed and will be migrated eventually by @castrojo
+
+Thanks for your patience!
+
 ## CNCF Overview presentation
 The CNCF overview [presentation](https://docs.google.com/presentation/d/1UGewu4MMYZobunfKr5sOGXsspcLOH_5XeCLyOHKh9LU/) by Dan Kohn is available via Google Docs. It includes the slides for a talk, A Brief History of the Cloud, in the appendix.  
 A Chinese version, updated every month, is available for [download](https://github.com/cncf/presentations/raw/main/chinese/CNCF_Overview_CN.pptx) (PowerPoint).  
