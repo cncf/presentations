@@ -14,7 +14,7 @@
   language: EN
   projects:
     - Kubernetes
-- name: The CNCF & You Growing Community in the Cloud Native Landscape.
+- name: The CNCF & You Growing Community in the Cloud Native Landscape
   description: |
     This talk takes you on a journey through the cloud native landscape and how the CNCF is helping to shape the way we develop and innovate in a vendor neutral environment working to solve complex problems through collaboration and community.
   video: https://www.youtube.com/watch?v=xZf8BBAYC3k
