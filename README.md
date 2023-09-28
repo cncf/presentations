@@ -22,7 +22,7 @@ While our initial focus is on capturing talks related to CNCF projects, we hope 
 
 > Is there a limit on the number of talks one can submit?
 
-The intent is to gather as many CNCF talks as possible, so the limit is based on how many talks the presenter can actually deliver. :D 
+Our goal is to collect as many CNCF-related talks as possible. Therefore, the only limit is the number of talks you can realistically present. :D 
 
 > Can I submit on someone else's behalf?
 
