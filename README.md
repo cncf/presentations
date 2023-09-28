@@ -24,7 +24,7 @@ While our initial focus is on capturing talks related to CNCF projects, we hope 
 
 Our goal is to collect as many CNCF-related talks as possible. Therefore, the only limit is the number of talks you can realistically present. :D 
 
-> Can I submit on someone else's behalf?
+> Can I submit talks on someone else's behalf?
 
 Most of this information is public and published on a schedule. If you want to help your friends and colleagues submit their own talks around specific topics to help us grow that tag's content, then we encourage you to do so! Please check with the presenter before submitting a PR as a common courtesy.
 
