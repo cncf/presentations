@@ -18,7 +18,7 @@ We are currently focusing on talks presented at CNCF Events, as these have alrea
 
 > Do the talks have to be focused solely on cloud native projects, or can they cover other open source topics?
 
-We are hoping to use this as a prototype so we can copy the pattern to include a wider range of topics, but for now we're trying to capture the low hanging CNCF fruit. In the meantime, if it's a good talk, submit it!
+While our initial focus is on capturing talks related to CNCF projects, we hope to expand the scope to include a broader range of topics in the future. If you believe your talk is valuable, go ahead and submit it!
 
 > Is there a limit on how many talks someone can submit?
 
