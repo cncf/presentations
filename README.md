@@ -16,7 +16,7 @@ This is a work in progress and subject to change. Feel free to submit Pull Reque
 
 We are currently focusing on talks presented at CNCF Events, as these have already been vetted and accepted by the community. We aim to avoid editorializing in this repository. If your talk has been presented at a CNCF event, feel free to submit it.
 
-> Do the talks have to be focused on cloud native projects only or can they submit talks about other open source talks?
+> Do the talks have to be focused solely on cloud native projects, or can they cover other open source topics?
 
 We are hoping to use this as a prototype so we can copy the pattern to include a wider range of topics, but for now we're trying to capture the low hanging CNCF fruit. In the meantime, if it's a good talk, submit it!
 
