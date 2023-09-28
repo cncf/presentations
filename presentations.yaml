@@ -4,11 +4,11 @@
   video: https://www.youtube.com/watch?v=0iH1HK20obs
   date: 2023-10-24
   presenters:
-    - name: Marlow Weston 
+    - name: Marlow Weston
       github: catblade
     - name: Dave Cremins
       github: davecremins
-  event: 
+  event:
     name: Kubernetes Batch + HPC Day NA 2022
     url: https://events.linuxfoundation.org/kubernetes-batch-hpc-day-north-america/
   language: EN
@@ -23,7 +23,7 @@
   presenters:
     - name: Lori Larusso
       github: LoriLorusso
-  event: 
+  event:
     name: KCD Israel 2023
     url: https://community.cncf.io/events/details/cncf-kcd-israel-presents-kcd-israel-2023/
   language: EN
@@ -91,5 +91,26 @@
     - Kubernetes
   tags:
     - Keynote
+    - Project Maintainer
+    - Ambassador
+- name: "Beyond the Magic: Disaster Recovery Strategies in Crossplane and GitOps"
+  description: |
+    In Crossplane, deploying resources using GitOps (ArgoCD) is straightforward, but disaster recovery is a different ballgame. When calamity hits, you can't just spin up a new Kubernetes cluster, point it to your Git repository, and expect a 'magical' restoration. This talk will demystify the notion that disaster recovery is 'magic' by exploring various strategies tailored for different levels of disasters using Velero.
+  slides: https://www.slideshare.net/CarlosSantana1/navigating-disaster-recovery-in-kubernetes-and-cncf-crossplane
+  video: https://youtu.be/6qYFmAy1cFA
+  date: 2023-05-08
+  presenters:
+    - name: Carlos Santana
+      github: csantanapr
+  event:
+    name: GitOpsCon NA 2023
+    url: https://sched.co/1Jp8D
+  language: EN
+  projects:
+    - Kubernetes
+    - Crossplane
+    - Velero
+    - Argo
+  tags:
     - Project Maintainer
     - Ambassador
