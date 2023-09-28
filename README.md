@@ -14,7 +14,7 @@ This is a work in progress and subject to change. Feel free to submit Pull Reque
 
 > What kind of talks are accepted vs. not accepted?
 
-For now we are concentrating on talks given at CNCF Events since those have already been accepted by the community. We don't want to do editorializing in this repo, if it's already been given at a CNCF event submit it. 
+We are currently focusing on talks presented at CNCF Events, as these have already been vetted and accepted by the community. We aim to avoid editorializing in this repository. If your talk has been presented at a CNCF event, feel free to submit it.
 
 > Do the talks have to be focused on cloud native projects only or can they submit talks about other open source talks?
 
