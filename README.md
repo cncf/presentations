@@ -10,7 +10,7 @@ This repository is becoming a backend for what will eventually become presentati
 Thanks for your patience!
 
 ### Submission Process
-This is inprogress and subject to change, please feel free to PR ideas and changes you'd like to see:
+This is a work in progress and subject to change. Feel free to submit Pull Request (PR) for ideas and changes you'd like to see.
 
 > What kind of talks are accepted v. Won’t be accepted?
 
