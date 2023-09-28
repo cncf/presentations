@@ -9,6 +9,25 @@ This repository is becoming a backend for what will eventually become presentati
 
 Thanks for your patience!
 
+### Submission Process
+This is inprogress and subject to change, please feel free to PR ideas and changes you'd like to see:
+
+> What kind of talks are accepted v. Won’t be accepted?
+
+For now we are concentrating on talks given at CNCF Events since those have already been accepted by the community. We don't want to do editorializing in this repo, if it's already been given at a CNCF event submit it. 
+
+> Do the talks have to be focused on cloud native projects only or can they submit talks about other open source talks?
+
+We are hoping to use this as a prototype so we can copy the pattern to include a wider range of topics, but for now we're trying to capture the low hanging CNCF fruit. In the meantime, if it's a good talk, submit it!
+
+> Is there a limit on how many talks someone can submit?
+
+The intent is to gather as many CNCF talks as possible, so the limit is based on how many talks the presenter can actually deliver. :D 
+
+> Can I submit on someone else's behalf?
+
+Most of this information is public and published on a schedule. If you want to help your friends and colleagues submit their own talks around specific topics to help us grow that tag's content, then we encourage you to do so! Please check with the presenter before submitting a PR as a common courtesy.
+
 ## CNCF Overview presentation
 The CNCF overview [presentation](https://docs.google.com/presentation/d/1UGewu4MMYZobunfKr5sOGXsspcLOH_5XeCLyOHKh9LU/) by Dan Kohn is available via Google Docs. It includes the slides for a talk, A Brief History of the Cloud, in the appendix.  
 A Chinese version, updated every month, is available for [download](https://github.com/cncf/presentations/raw/main/chinese/CNCF_Overview_CN.pptx) (PowerPoint).  
