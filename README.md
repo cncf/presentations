@@ -12,7 +12,7 @@ Thanks for your patience!
 ### Submission Process
 This is a work in progress and subject to change. Feel free to submit Pull Request (PR) for ideas and changes you'd like to see.
 
-> What kind of talks are accepted v. Won’t be accepted?
+> What kind of talks are accepted vs. not accepted?
 
 For now we are concentrating on talks given at CNCF Events since those have already been accepted by the community. We don't want to do editorializing in this repo, if it's already been given at a CNCF event submit it. 
 
