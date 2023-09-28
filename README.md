@@ -20,7 +20,7 @@ We are currently focusing on talks presented at CNCF Events, as these have alrea
 
 While our initial focus is on capturing talks related to CNCF projects, we hope to expand the scope to include a broader range of topics in the future. If you believe your talk is valuable, go ahead and submit it!
 
-> Is there a limit on how many talks someone can submit?
+> Is there a limit on the number of talks one can submit?
 
 The intent is to gather as many CNCF talks as possible, so the limit is based on how many talks the presenter can actually deliver. :D 
 
