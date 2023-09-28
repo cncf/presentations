@@ -26,7 +26,7 @@ Our goal is to collect as many CNCF-related talks as possible. Therefore, the on
 
 > Can I submit talks on someone else's behalf?
 
-Most of this information is public and published on a schedule. If you want to help your friends and colleagues submit their own talks around specific topics to help us grow that tag's content, then we encourage you to do so! Please check with the presenter before submitting a PR as a common courtesy.
+Most of the information related to these talks is publicly available and published on schedules. If you wish to help your friends and colleagues submit their talks to enrich specific topic tags, you're encouraged to do so. However, please consult with the presenter before submitting a PR as a common courtesy.
 
 ## CNCF Overview presentation
 The CNCF overview [presentation](https://docs.google.com/presentation/d/1UGewu4MMYZobunfKr5sOGXsspcLOH_5XeCLyOHKh9LU/) by Dan Kohn is available via Google Docs. It includes the slides for a talk, A Brief History of the Cloud, in the appendix.  
