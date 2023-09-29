@@ -109,7 +109,6 @@
   projects:
     - Kubernetes
     - Crossplane
-    - Velero
     - Argo
   tags:
     - Project Maintainer
