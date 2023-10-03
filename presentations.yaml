@@ -113,3 +113,27 @@
   tags:
     - Project Maintainer
     - Ambassador
+- name: "Automate secret rotation in Kubernetes, then get out of the way!"
+  description: |
+    Industry best practices say that we should rotate secrets frequently to ensure our systems and data stay safe, but doing that in an operationally safe way is often a challenge.
+    Not only that, but due to the vast number of regulations and compliance requirements, different secret management solutions, even figuring out where to start can be hard.
+
+    In his presentation, Mark will provide guidance to understand the landscape of secret management and rotation solutions in Kubernetes and will show you how to set up and operate them in a safe and reliable,
+    but more importantly, automated way. You might have seen Mark's presentation about the same subject at FOSDEM '23.
+    Due to time constraints that was a brief, introductory talk. This time, Mark will go into details about monitoring your secret management infrastructure,
+    so you can be sure your secrets are rotated. He will also offer alternative solutions to Kubernetes secrets if you are in no position to trust your provider.
+  slides: https://slides.sagikazarmark.hu/2023-05-12-automate-secret-rotation-in-kubernetes/
+  video: https://www.youtube.com/watch?v=NTdyznb6Lc4&list=PLbzoR-pLrL6prBc8UnTQ9wI3BvFYp17Xp&index=16
+  date: 2023-05-12
+  presenters:
+    - name: Márk Sági-Kazár
+      github: sagikazarmark
+  event:
+    name: OSS NA 2023
+    url: https://ossna2023.sched.com/event/1K5FED
+  language: EN
+  projects:
+    - Kubernetes
+    - External Secrets
+  tags:
+    - Ambassador
