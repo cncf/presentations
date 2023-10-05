@@ -24,9 +24,9 @@
   presenters:
     - name: Atulpriya Sharma 
       github: Techmaharaj  
-  event:
-    name:  Kubernetes Community Days Pakistan
-    url: https://www.linkedin.com/company/kubernetes-community-days-pakistan/ 
+  event: https://kcdchennai.in/
+    name:  Kubernetes Community Days Chennai
+    url: 
   language: EN
   tags:
     - Ambassador  
