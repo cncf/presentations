@@ -1,5 +1,5 @@
 - name: The Security Evolution of GRPC Services in the Mesh
-description: | 
+  description: | 
   This presentation aims to explore the evolving surrounding of gRPC services intercommunication in the context of containers and inside service mesh. It will delve in the history and intricacies of securing communication, authentication, authorization and accounting within a modern distributed system architecture. This talk also emphasize the current crucial role of Istio in enhancing the security posture of gRPC services east-west traffic compared with older approaches, that includes default encryption, identity and access management, and secure service-to-service communication on service mesh without the complexity of sidecars usage.
   video: https://www.youtube.com/watch?v=CdwRy-SwAZI
   slides: 
