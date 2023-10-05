@@ -12,7 +12,7 @@
     name: Kubernetes Community Days UK | 2022
     url: https://events.linuxfoundation.org/kubernetes-batch-hpc-day-north-america/
   language: EN
-  projects:
+  tags:
     - Ambassador
 - name: Propagating Programming Paradigms - Lifting High Performance Compute Into K8s
   description: |
