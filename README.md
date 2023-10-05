@@ -2,14 +2,18 @@
 
 ### Incoming Changes (Pardon our dust)
 
-This repository is becoming a backend for what will eventually become presentations.cncf.io.
+This repository is for [presentations.cncf.io](https://presentations.cncf.io).
 
 - Frontend issues should be filed here: https://github.com/cncf/presentations-website/issues
 - Existing data and presentations will not be removed and will be migrated eventually by @castrojo
 
 Thanks for your patience!
 
-### Submission Process
+## Submission Process
+
+1. If you are non-technical: [File an issue](https://github.com/cncf/presentations/issues/new) with a link to the video and slides and someone will PR it in for you. 
+1. If you are technical: PR your info into [presentations.yaml](https://github.com/cncf/presentations/blob/main/presentations.yaml) at the top. 
+
 This is a work in progress and subject to change. Feel free to submit Pull Request (PR) for ideas and changes you'd like to see.
 
 > What kind of talks are accepted vs. not accepted?
