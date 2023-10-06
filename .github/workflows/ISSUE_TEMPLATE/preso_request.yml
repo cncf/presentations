@@ -1,0 +1,31 @@
+name: Submit Presentation
+description: Submit a talk to presentations.cncf.io
+labels: [preso-request]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this request!
+  - type: textarea
+    id: slides
+    attributes:
+      label: Link to slides
+      description: Link to the presentation's slide - must be publically available
+    validations:
+    required: true
+  - type: textarea
+    id: video
+    attributes:
+      label: Current Behavior
+      description: Link to video of the presentation if available
+    validations:
+    required: video
+  - type: textarea
+    id: describe-preso
+    attributes:
+      label: Describe the presentation 
+      description: A few sentences describing the presentation
+      placeholder: This talk is about
+      value: "In this talk we'll talk about the noodle incident"
+    validations:
+      required: false
