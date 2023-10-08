@@ -24,7 +24,19 @@ func Verify(f string) error {
 	}
 
 	errors := []error{}
-	for _, entry := range data {
+	for key, entry := range data {
+		if entry.Name == "" {
+			errors = append(errors, fmt.Errorf("empty name detected for entry %d", key))
+			continue
+		}
+
+		if entry.Description == "" {
+			errors = append(errors, fmt.Errorf("empty description detected for '%s'", entry.Name))
+		}
+		if entry.Date.IsZero() {
+			errors = append(errors, fmt.Errorf("empty date detected for entry '%s'", entry.Name))
+		}
+
 		if entry.Slides != "" {
 			if _, err := url.Parse(entry.Slides); err != nil {
 				errors = append(errors, fmt.Errorf("invalid slides URL for %s: %v", entry.Name, err))
@@ -33,6 +45,8 @@ func Verify(f string) error {
 					errors = append(errors, fmt.Errorf("broken slides URL for %s (%s): %v", entry.Name, entry.Slides, err))
 				}
 			}
+		} else {
+			errors = append(errors, fmt.Errorf("slides URL empty for %s", entry.Name))
 		}
 
 		if entry.Video != "" {
