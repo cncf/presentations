@@ -68,6 +68,7 @@
   description: |
     Users don’t care where items run, just IF they run and how long they need to wait for completion. We should be building systems where ONLY the hardware, network, storage, and security engineers worry about how to maximally leverage underlying hardware for performance. Increasingly popular AI/ML and traditional HPC workloads have many similarities. It is historically difficult for the users to deploy their workloads in HPC environments. Kubernetes, meanwhile, has focused on simplifying the cognitive load for the users at a cost to both performance and sustainability. We show how to lift paradigms from HPC to make more performant Kubernetes clusters. We give a history of where HPC has come up short in abstracting hardware away from the user. We highlight current Kubernetes projects that do aid in performance in a cloud-native fashion and will go over continuing gaps. We will show how to improve Kubernetes to optimize both performance and sustainability without added pain to the user.
   video: https://www.youtube.com/watch?v=0iH1HK20obs
+  slides: https://static.sched.com/hosted_files/kubernetesbatchdayna22/68/PropogatingProgammingParadigmsMarlowWestonIntel.pdf?_gl=1*1ikx4yr*_ga*MjEyMzcyMjQ3OS4xNjk2Nzg3NDM5*_ga_XH5XM35VHB*MTY5Njc4NzQzOS4xLjAuMTY5Njc4NzQzOS42MC4wLjA.
   date: 2023-10-24
   presenters:
     - name: Marlow Weston
