@@ -1,3 +1,35 @@
+- name: From Perimeter to Zero Trust - Securing Kubernetes with Paralus 
+  description: | 
+    From monoliths to microservices, VMs to containers, the way we run and deploy our applications today has evolved over the years. Hence the way we safeguard our applications should also evolve. In this talk, I'll talk about how securing infrastructure has evolved and moved away from traditional perimeter-based security to robust and agile zero trust. Will introduce Zero Trust and its principles and touch upon the differences between the various security options to secure your Kubernetes clusters. We will then look at how Paralus can help secure access to your Kubernetes clusters with a quick hands-on demo.
+  video: https://www.youtube.com/watch?v=RCQJq966sK8 
+  slides: https://docs.google.com/presentation/d/1e_JHiT63eLlovl0rWSu2mduGO8YpjjnAzK_dPTWwcoM/edit#slide=id.p 
+  date: 2023-02-20
+  presenters:
+    - name: Atulpriya Sharma 
+      github: Techmaharaj  
+  event:
+    name: Kubernetes Community Days Pakistan
+    url: https://www.linkedin.com/company/kubernetes-community-days-pakistan/ 
+  language: EN
+  projects:
+    - paralus
+  tags:
+    - Ambassador
+- name: From Chaos to Calm - Improving Service Mesh Reliability 
+  description: | 
+    Multiple microservices, complex architecture, and recurring performance issues. This lack of visibility hampers a team's ability to troubleshoot effectively, leading to prolonged downtime & frustrated customers. But what if there was a way to unravel the mystery of your service mesh and ensure it's always performing at its best? In this talk, we'll shed some light on service mesh observability and reliability. We'll then see how advanced technologies like Chaos Engineering can help make our service mesh more reliable. To showcase how this would work, we'll have a demo of using Litmus Chaos along with Kiali to observe our service mesh and in turn, take preventive measures to make it more reliable. So, don't let your service mesh be a mystery any longer - attend the talk and learn how to make it more observable and reliable than ever before!
+  video: https://youtu.be/fB-cFVM3XeU?si=QQmyR7fAXSg1291V 
+  slides: https://docs.google.com/presentation/d/1zcDMjkvo-AQ0-2d49pRY_EzSpCtm7lpADh6oosV-XZk/edit#slide=id.g35f391192_00 
+  date: 2023-08-21
+  presenters:
+    - name: Atulpriya Sharma 
+      github: Techmaharaj  
+  event: 
+    name: Kubernetes Community Days Chennai
+    url: https://kcdchennai.in/
+  language: EN
+  tags:
+    - Ambassador
 - name: The Security Evolution of GRPC Services in the Mesh
   description: | 
     This presentation aims to explore the evolving surrounding of gRPC services intercommunication in the context of containers and inside service mesh. It will delve in the history and intricacies of securing communication, authentication, authorization and accounting within a modern distributed system architecture. This talk also emphasize the current crucial role of Istio in enhancing the security posture of gRPC services east-west traffic compared with older approaches, that includes default encryption, identity and access management, and secure service-to-service communication on service mesh without the complexity of sidecars usage.
