@@ -22,4 +22,5 @@ type Presentations []struct {
 	}
 	Projects []string `yaml:"projects"`
 	Tags     []string `yaml:"tags"`
+	Repos    []string `yaml:"repos"`
 }

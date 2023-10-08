@@ -61,6 +61,12 @@ func Verify(f string) error {
 			}
 		}
 
+		for _, repo := range entry.Repos {
+			if resp, err := http.Get(repo); err != nil || resp.StatusCode >= 400 {
+				errors = append(errors, fmt.Errorf("invalid repo URL: %s", repo))
+			}
+		}
+
 		for _, presenter := range entry.Presenters {
 			if presenter.Github != "" {
 				githubURL := fmt.Sprintf("https://github.com/%s", presenter.Github)
