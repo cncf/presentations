@@ -1,3 +1,20 @@
+- name: OpenTelemetry 101: Let's Instrument!
+  description: |
+    Great observability begins with great instrumentation! Learn how to adopt OpenTelemetry by instrumenting a sample Python application with spans and metrics. Starting by exploring “out-of-the-box” automatic instrumentation then progressing to manually instrumenting where needed to add metadata. You’ll leave with an understanding of how telemetry travels from your application to the Collector and ready to bring OpenTelemetry to your project.
+  video: https://youtu.be/CB2nEcnBBcE
+  slides: https://o11y-workshops.gitlab.io/workshop-opentelemetry/
+  date: 2023-11-08
+  presenters:
+    - name: Paige Cruz
+      github: paigerduty
+  event:
+    name: KubeCon NA 2023
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/
+  language: EN
+  projects:
+    - OpenTelemetry
+  tags:
+    - Ambassador
 - name: From Perimeter to Zero Trust - Securing Kubernetes with Paralus
   description: |
     From monoliths to microservices, VMs to containers, the way we run and deploy our applications today has evolved over the years. Hence the way we safeguard our applications should also evolve. In this talk, I'll talk about how securing infrastructure has evolved and moved away from traditional perimeter-based security to robust and agile zero trust. Will introduce Zero Trust and its principles and touch upon the differences between the various security options to secure your Kubernetes clusters. We will then look at how Paralus can help secure access to your Kubernetes clusters with a quick hands-on demo.
