@@ -1,3 +1,20 @@
+- name: Observability for You and Me with OpenTelemetry
+  description: |
+    Are you interested in dipping your toes in the cloud native observability waters, but as an engineer you are not sure where to get started with tracing your microservices and applications on Kubernetes? Then this is the session for you, where we take you on your first steps in an active open-source project that offers a buffet of opportunities for getting started with telemetry data. The project, openTelemetry (OTEL), is where we start with de-mystifying key concepts and terms such as observability, telemetry, instrumentation to lay a foundation. Then we’ll explore the OTEL community and how to become not only an end-user, but possibly a contributor.We will wrap up with an overview of the components in this project, such as the Collector, the OTEL protocol (OTLP), its APIs, and its SDKs. Attendees will leave with an understanding of key observability concepts in distributed tracing!
+  video: https://youtu.be/GhN4Y_reTSk?feature=shared&t=8
+  slides: https://www.slideshare.net/eschabell/observability-for-you-and-me-with-opentelemetry
+  date: 2023-11-14
+  presenters:
+    - name: Eric D. Schabell
+      github: eschabell
+  event:
+    name: Kubernetes Community Days Denmark
+    url: https://kcddenmark.dk
+  language: EN
+  projects:
+    - OpenTelemetry
+  tags:
+    - Ambassador
 - name: From Perimeter to Zero Trust - Securing Kubernetes with Paralus
   description: |
     From monoliths to microservices, VMs to containers, the way we run and deploy our applications today has evolved over the years. Hence the way we safeguard our applications should also evolve. In this talk, I'll talk about how securing infrastructure has evolved and moved away from traditional perimeter-based security to robust and agile zero trust. Will introduce Zero Trust and its principles and touch upon the differences between the various security options to secure your Kubernetes clusters. We will then look at how Paralus can help secure access to your Kubernetes clusters with a quick hands-on demo.
