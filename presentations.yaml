@@ -252,3 +252,20 @@
     - Zot
   tags:
     - Ambassador
+- name: "Ecosistemas CNCF"
+  description: |
+    En la era digital actual, la forma en que desarrollamos, implementamos y gestionamos aplicaciones ha experimentado una transformación radical. La CNCF desempeña un papel crucial al liderar esta revolución, proporcionando herramientas y estándares esenciales que impulsan la adopción de arquitecturas nativas de la nube.
+    Durante esta charla exploraremos cómo la CNCF ha contribuido a la evolución del desarrollo de software, desde la orquestación de contenedores hasta la gestión eficiente de microservicios, abriendo nuevas posibilidades para la innovación en la nube. Analizaremos algunas de las tecnologías más destacadas en su cartera, discutiremos casos de uso emocionantes y examinaremos el impacto de esta fundación en la industria de la tecnología.
+  video: https://www.youtube.com/watch?v=ICnCsVEcy2o
+  slides: https://docs.google.com/presentation/d/1XPvqYb9naT11Icc4QYE-FpOTJXGfM6JKQwg7pM547RE/edit?usp=sharing
+  date: 2024-01-25
+  presenters:
+    - name: Diana Menendez
+      github: Dianmz
+  event:
+    name: Cloud Native Guatemala
+    url: https://community.cncf.io/events/details/cncf-cloud-native-guatemala-presents-intro-ecosistema-cncf/
+  language: ES
+  tags:
+    - Ambassador soon-to-be
+ 
