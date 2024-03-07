@@ -300,4 +300,26 @@
   language: ES
   tags:
     - Ambassador soon-to-be
- 
+- name: "Introduction to Strimzi: Apache Kafka on Kubernetes"
+  description: |
+    Strimzi is a CNCF project focusing on running Apache Kafka on Kubernetes. Apache Kafka has emerged as a leading platform for building real-time data pipelines. 
+    It provides support for high-throughput/low-latency messaging, as well as sophisticated development options that cover all the stages of a distributed data streaming pipeline, from ingestion to processing. 
+    But running it on Kubernetes can be complex and tedious. This talk will introduce you to Strimzi - an operator which makes it easy to run Apache Kafka on Kubernetes. 
+    It addresses the whole lifecycle from creating, managing, and monitoring Kafka clusters to managing topics or users. 
+    This session will go through the main challenges of running Apache Kafka on Kubernetes, explain how they are solved by Strimzi and show a live demo.
+  video: https://www.youtube.com/watch?v=GSh9aHvdZco
+  slides: https://github.com/ppatierno/presentations/blob/main/2020/2020-09-05%20KubeCon%20EU%202020%20-%20Introduction%20to%20Strimzi_%20Apache%20Kafka%20on%20Kubernetes.pdf
+  date: 2020-08-19
+  presenters:
+    - name: Paolo Patierno
+      github: ppatierno
+    - name: Jakub Scholz
+      github: scholzj
+  event:
+    name: KubeCon + CloudNativeCon Europe 2020
+  language: EN
+  projects:
+    - Strimzi
+  tags:
+    - Project Maintainer
+    - Ambdassador
