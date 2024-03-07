@@ -1,3 +1,35 @@
+- name:  Application-driven infrastructure with Crossplane 
+  description: |
+    Crossplane allows users to extend their Kubernetes clusters using CRDs. The CRDs map any infrastructure or managed service, ensuring that the creation process for the users is as simple as the Kubernetes resources creation. Using a collection of YAML manifests, the development teams can assemble the needed cloud services for their applications removing this duty from the operation teams: this is "shift left" at its best. All this powerfulness comes with a cost in terms of security, governance, cognitive load and maintenance. In this talk we'll discuss strategies and techniques to better map the complexity of this infrastructure.
+  video: https://www.youtube.com/watch?v=zkEL6UnopUQ 
+  slides: https://www.slideshare.net/sparkfabrik/kcd-italy-2022-application-driven-infrastructure-with-crossplane
+  date: 2023-02-01
+  presenters:
+    - name: Daniele Monti
+      github: Monska85
+  event:
+    name: KCD Italy 2022
+    url: https://community.cncf.io/kcd-italy/
+  language: EN
+  projects:
+    - Crossplane
+- name:  Secure Software Supply chain for OCI Artifacts on Kubernetes
+  description: |
+    In this talk we will talk about how to ensure the security and quality of the software we deploy on Kubernetes using open-source tools like Sigstore, Kyverno and Syft/Grype. We will explain what a secure supply chain is, why it is important and how to implement it with these tools. We will also show you how to generate and verify SBOMs (Software Bill of Materials) of your OCI (Open Container Initiative) artifacts. And finally, we will show you some practical examples of how to use these technologies in action. We hope you enjoy it and find it useful!
+  video: https://youtu.be/uHotwi6myog
+  slides: https://www.slideshare.net/slideshows/kcd-italy-2023-secure-software-supply-chain-for-oci-artifact-on-kubernetes/265503999
+  date: 2023-08-01
+  presenters:
+    - name: Paolo Mainardi
+      github: paolomainardi
+    - name: Andrea Panisson
+      github: panisson
+  event:
+    name: KCD Italy 2023
+    url: https://community.cncf.io/kcd-italy/
+  language: EN
+  projects:
+    - Crossplane
 - name: Observability for You and Me with OpenTelemetry
   description: |
     Are you interested in dipping your toes in the cloud native observability waters, but as an engineer you are not sure where to get started with tracing your microservices and applications on Kubernetes? Then this is the session for you, where we take you on your first steps in an active open-source project that offers a buffet of opportunities for getting started with telemetry data. The project, openTelemetry (OTEL), is where we start with de-mystifying key concepts and terms such as observability, telemetry, instrumentation to lay a foundation. Then we’ll explore the OTEL community and how to become not only an end-user, but possibly a contributor.We will wrap up with an overview of the components in this project, such as the Collector, the OTEL protocol (OTLP), its APIs, and its SDKs. Attendees will leave with an understanding of key observability concepts in distributed tracing!
