@@ -1,3 +1,15 @@
+- name: OpenTelemetry 101: Let's Instrument!
+  description: |
+    Great observability begins with great instrumentation! Learn how to adopt OpenTelemetry by instrumenting a sample Python application with spans and metrics. Starting by exploring “out-of-the-box” automatic instrumentation then progressing to manually instrumenting where needed to add metadata. You’ll leave with an understanding of how telemetry travels from your application to the Collector and ready to bring OpenTelemetry to your project.
+  video: https://youtu.be/CB2nEcnBBcE
+  slides: https://o11y-workshops.gitlab.io/workshop-opentelemetry/
+  date: 2023-11-08
+  presenters:
+    - name: Paige Cruz
+      github: paigerduty
+  event:
+    name: KubeCon NA 2023
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/
 - name: Observability for You and Me with OpenTelemetry
   description: |
     Are you interested in dipping your toes in the cloud native observability waters, but as an engineer you are not sure where to get started with tracing your microservices and applications on Kubernetes? Then this is the session for you, where we take you on your first steps in an active open-source project that offers a buffet of opportunities for getting started with telemetry data. The project, openTelemetry (OTEL), is where we start with de-mystifying key concepts and terms such as observability, telemetry, instrumentation to lay a foundation. Then we’ll explore the OTEL community and how to become not only an end-user, but possibly a contributor.We will wrap up with an overview of the components in this project, such as the Collector, the OTEL protocol (OTLP), its APIs, and its SDKs. Attendees will leave with an understanding of key observability concepts in distributed tracing!
