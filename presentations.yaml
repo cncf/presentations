@@ -323,3 +323,21 @@
   tags:
     - Project Maintainer
     - Ambdassador
+- name: "Pipelines in cloud-native ecosystem, GitOps and beyond"
+  description: |
+    The CI/CD process has become an essential part of modern software development, particularly in the context of cloud-native applications.
+    This talk takes you on a journey through the CI/CD pipelines via Gitlab-ci, GitHub Actions, ArgoCD and taking a look at Tekton concepts.
+  slides: https://docs.google.com/presentation/d/1W-KCJCe_GjIovoHv9uel5HGo9MGRIZFi
+  date: 2024-05-17
+  presenters:
+    - name: Samir Romdhani
+      github: romdhanisam
+  event:
+    name: Cloud Native Tunisia https://community.cncf.io/tunisia
+    url: https://community.cncf.io/events/details/cncf-tunisia-presents-pipelines-in-cloud-native-ecosystem-gitops-and-beyond/
+  language: EN, ar-TN
+  projects:
+    - Kubernetes
+    - Argo
+  tags:
+    - Ambassador soon-to-be
