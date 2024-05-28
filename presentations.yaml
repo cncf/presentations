@@ -323,3 +323,76 @@
   tags:
     - Project Maintainer
     - Ambdassador
+- name: "KubeConにProposalを送りたい人へのアドバイス"
+  description: |
+    In this session, the presenter summarized his own experience and provided advice for those who wish to submit proposals to KubeCon + CloudNativeCon.
+  slides: https://drive.google.com/file/d/16Wo_vU2SYI5X2hbk07bQZgozfNMRpm_4/view?usp=sharing
+  date: 2024-04-23
+  presenters:
+    - name: sat
+  event:
+    name: Cloud Native Community Japan -KubeCon採択スペシャル-
+  language: JA
+  projects:
+    - Kubernetes
+  tags:
+    - CNCJ
+- name: "KubeCon発表採択への道 ～コミュニティ開発者の場合～"
+  description: |
+    In this session, the presenter, as a community contributor, summarized his own experiences and provided advice for those who want to send proposals to KubeCon + CloudNativeCon.
+  slides: https://drive.google.com/file/d/1wfcFpboGNMvRN2bDWfQw0uGBtfC4imrK/view?usp=sharing
+  date: 2024-04-23
+  presenters:
+    - name: Masaki Kimura
+      github: mkimuram
+  event:
+    name: Cloud Native Community Japan -KubeCon採択スペシャル-
+  language: JA
+  projects:
+    - Kubernetes
+  tags:
+    - CNCJ
+- name: "メンテナトラックについて (containerdの場合)～"
+  description: |
+    In this session, the presenter introduced what past containerd maintainer tracks have been about, and what you can get out of participating in the maintainer track.
+  slides: https://drive.google.com/file/d/1cMw2JOTrovv0PUR1ndWS9Yy9iELzGIuS/view?usp=sharing
+  date: 2024-04-23
+  presenters:
+    - name: Kohei Tokunaga
+  event:
+    name: Cloud Native Community Japan -KubeCon採択スペシャル-
+  language: JA
+  projects:
+    - Kubernetes
+    - containerd
+  tags:
+    - CNCJ
+- name: "KubeCon EU 2024登壇について"
+  description: |
+    In this session, the presenter gave an overview of what he presented at KubeCon + CloudNativeCon Europe 2024, introduced what he felt while on stage and what he was aware of for the CFP adoption.
+  slides: https://drive.google.com/file/d/1SMjEC_Lx5Qe6p2aLRNBGakoFSN0GPBcz/view?usp=sharing
+  date: 2024-04-23
+  presenters:
+    - name: Masataka Sonoda
+  event:
+    name: Cloud Native Community Japan -KubeCon採択スペシャル-
+  language: JA
+  projects:
+    - Kubernetes
+  tags:
+    - CNCJ
+- name: "Cracking the KubeCon CfP"
+  description: |
+    In this session, the presenter introduced what should be considered when submitting a CFP, in the position of making a decision on whether to adopt a CFP.
+  slides: https://drive.google.com/file/d/1sutaZ5DlJ-jXeC5WFM0nbUexuwCNr0rW/view?usp=sharing
+  date: 2024-04-23
+  presenters:
+    - name: Kohei Ota
+      github: inductor
+  event:
+    name: Cloud Native Community Japan -KubeCon採択スペシャル-
+  language: JA
+  projects:
+    - Kubernetes
+  tags:
+    - CNCJ
