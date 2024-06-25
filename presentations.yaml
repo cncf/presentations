@@ -308,7 +308,7 @@
     It addresses the whole lifecycle from creating, managing, and monitoring Kafka clusters to managing topics or users. 
     This session will go through the main challenges of running Apache Kafka on Kubernetes, explain how they are solved by Strimzi and show a live demo.
   video: https://www.youtube.com/watch?v=GSh9aHvdZco
-  slides: https://github.com/ppatierno/presentations/blob/main/2020/2020-09-05%20KubeCon%20EU%202020%20-%20Introduction%20to%20Strimzi_%20Apache%20Kafka%20on%20Kubernetes.pdf
+  slides: https://presentations.cncf.io/wp-content/uploads/2024/06/2020-09-05-KubeCon-EU-2020-Introduction-to-Strimzi_-Apache-Kafka-on-Kubernetes.pdf
   date: 2020-08-19
   presenters:
     - name: Paolo Patierno
