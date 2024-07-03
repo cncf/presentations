@@ -323,3 +323,22 @@
   tags:
     - Project Maintainer
     - Ambdassador
+- name: "Distributed Tracing with Jaeger and OpenTelemetry"
+  description: |
+    In this session, we will introduce the Jaeger project, explain distributed tracing concepts, and the value it brings compared to other telemetry signals like metrics and logs. The session will continue with a live Jaeger demo after which the audience will understand the platform features. Then we’ll delve into service performance monitoring, the future of Jaeger as we move towards our next major version V2, and further integration with the OpenTelemetry project. We will finish by talking about the roadmap and how to get involved with the project including our expanding LFX mentorship program.
+  video: https://www.youtube.com/watch?v=WNfesi_T0Bs
+  slides: https://static.sched.com/hosted_files/kccnceu2024/21/Kubecon%20EU%202024_%20Jaeger.pdf
+  date: 2024-03-20
+  presenters:
+    - name: Jonah Kowall
+      github: jkowall
+    - name: Pavol Loffay
+      github: pavolloffay
+  event:
+    name: KubeCon + CloudNativeCon Europe 2024
+  language: EN
+  projects:
+    - Jaeger
+  tags:
+    - Project Maintainer
+    - Observability
