@@ -341,3 +341,24 @@
     - Argo
   tags:
     - Ambassador soon-to-be
+- name: "Simplifying Apache Kafka on Kubernetes with Strimzi"
+  description: |
+    When it comes to data streaming platforms for modern event driven architectures, Apache Kafka has become the most popular choice. However managing Kafka clusters on Kubernetes brings its own set of challenges such as upgrades, topics management and scaling. This is where Strimzi shines, it’s a CNCF incubating project that makes running Kafka on Kubernetes seamless.
+    In this talk, we will briefly introduce Strimzi and its key features, exploring how it simplifies not just Day 1 but also Day 2 operations in a Kubernetes native way. We will then deep dive into Strimzi’s recent enhancements such as KRaft migration, auto rebalancing, and tiered storage. Finally, we will give you a sneak peek into what’s next for Strimzi, including exciting upcoming features.
+    Whether you're a beginner or an experienced Kubernetes practitioner, this talk will equip you with the knowledge and tools to leverage Strimzi for Kafka on Kubernetes.
+  video: https://www.youtube.com/watch?v=sLFmnCyZ89M
+  slides: https://github.com/ppatierno/presentations/blob/main/2025/2025-04-01%20Simplifying%20Apache%20Kafka%20on%20Kubernetes%20with%20Strimzi.pdf
+  date: 2025-04-01
+  presenters:
+    - name: Paolo Patierno
+      github: ppatierno
+    - name: Gantigmaa Selenge
+      github: tinaselenge
+  event:
+    name: KubeCon + CloudNativeCon Europe 2025
+  language: EN
+  projects:
+    - Strimzi
+  tags:
+    - Project Maintainer
+    - Ambdassador
