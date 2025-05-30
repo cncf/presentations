@@ -361,4 +361,24 @@
     - Strimzi
   tags:
     - Project Maintainer
-    - Ambdassador
+    - Ambassador
+- name: "Mastering Kafka workload balancing with Strimzi's Cruise Control integration"
+  description: |
+    Is your organization scaling Apache Kafka on Kubernetes with the need for efficient resource management and automated balancing? Strimzi, an open-source solution for running Kafka on Kubernetes, integrates with Cruise Control to offer advanced workload rebalancing, monitoring, and optimization. 
+    This integration provides you with production-grade automation for workload distribution and resource efficiency, reducing manual intervention and improving resiliency in a cloud-native environment.
+    This session is for Kafka operators, SREs, and DevOps engineers seeking to optimize Kafka on Kubernetes. We’ll cover the setup of Cruise Control, automated rebalancing strategies, and real-world examples demonstrating dynamic traffic scaling, rapid failure recovery, and optimized resource usage. 
+    Attendees will also see a live demo of Cruise Control rebalancing a Kafka cluster to maximize performance and stability.
+  video: https://www.youtube.com/watch?v=T_QQQ1hPFRs
+  slides: https://github.com/ppatierno/presentations/blob/main/2025/2025-03-31%20Mastering%20Kafka%20workload%20balancing%20with%20Strimzi%E2%80%99s%20Cruise%20Control%20integration.pdf
+  date: 2025-03-31
+  presenters:
+    - name: Paolo Patierno
+      github: ppatierno
+  event:
+    name: Data on Kubernetes co-located event at KubeCon + CloudNativeCon Europe 2025
+  language: EN
+  projects:
+    - Strimzi
+  tags:
+    - Project Maintainer
+    - Ambassador
