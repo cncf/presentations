@@ -382,3 +382,18 @@
   tags:
     - Project Maintainer
     - Ambassador
+- name: Building a Kubernetes-native control plane with Crossplane
+  description: |
+    This talk explores how Crossplane can be used to build a Kubernetes-native control plane for platform engineering. It demonstrates how platform teams can define reusable abstractions and offer self-service infrastructure through Kubernetes APIs.
+    The session includes a live demo showing how to create a Crossplane Composition and use it to provision a PostgreSQL database on AWS from Kubernetes. The focus is on how Compositions enable reusable infrastructure patterns and controlled self-service workflows.
+  slides: https://github.com/Vasil-Shaikh/Presentations/blob/main/Building%20a%20Kubernetes-native%20control%20plane%20with%20Crossplane%20(with%20Live%20Demo).pdf
+  date: 2026-02-10
+  presenters:
+    - name: Vasil Shaikh
+      github: Vasil-Shaikh
+  event:
+    name: Cloud Native Kuala Lumpur, Feb 2026 Meetup
+    url: https://community.cncf.io/events/details/cncf-cloud-native-kuala-lumpur-presents-in-person-cloud-native-kuala-lumpur-meetup-february-2026/
+  language: EN
+  projects:
+    - crossplane
